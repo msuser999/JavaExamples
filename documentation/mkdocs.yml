@@ -1,0 +1,8 @@
+site_name: CriticalAnalytics
+
+# Define page navigation here (the side panel)
+nav:
+- Home: index.md
+- MkDocs Quick Guide: quickguide.md
+
+theme: readthedocs
